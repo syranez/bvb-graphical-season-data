@@ -1,0 +1,179 @@
+<?xml version="1.0" ?>
+<season team="Borussia Dortmund" name="Saison 2020/21">
+    <match>
+        <competition>DFB-Pokal</competition>
+        <opponent>MSV Duisburg</opponent>
+        <result>
+            <team>5</team>
+            <opponent>0</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>Borussia Mönchengladbach</opponent>
+        <result>
+            <team>3</team>
+            <opponent>0</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>FC Augsburg</opponent>
+        <result>
+            <team>0</team>
+            <opponent>2</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Supercup</competition>
+        <opponent>Bayern München</opponent>
+        <result>
+            <team>2</team>
+            <opponent>3</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>SC Freiburg</opponent>
+        <result>
+            <team>4</team>
+            <opponent>0</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>TSG Hoffenheim</opponent>
+        <result>
+            <team>1</team>
+            <opponent>0</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Champions League</competition>
+        <opponent>Lazio Rom</opponent>
+        <result>
+            <team>1</team>
+            <opponent>3</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>FC Schalke 04</opponent>
+        <result>
+            <team>3</team>
+            <opponent>0</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Champions League</competition>
+        <opponent>Zenit St. Petersburg</opponent>
+        <result>
+            <team>2</team>
+            <opponent>0</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>Arminia Bielefeld</opponent>
+        <result>
+            <team>2</team>
+            <opponent>0</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Champions League</competition>
+        <opponent>Club Brügge</opponent>
+        <result>
+            <team>3</team>
+            <opponent>0</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>Bayern München</opponent>
+        <result>
+            <team></team>
+            <opponent></opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>Hertha BSC</opponent>
+        <result>
+            <team></team>
+            <opponent></opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>1. FC Köln</opponent>
+        <result>
+            <team></team>
+            <opponent></opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>Eintracht Frankfurt</opponent>
+        <result>
+            <team></team>
+            <opponent></opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>VfB Stuttgart</opponent>
+        <result>
+            <team></team>
+            <opponent></opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>Werder Bremen</opponent>
+        <result>
+            <team></team>
+            <opponent></opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>1. FC Union Berlin</opponent>
+        <result>
+            <team></team>
+            <opponent></opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>Vfl Wolfsburg</opponent>
+        <result>
+            <team></team>
+            <opponent></opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>RB Leipzig</opponent>
+        <result>
+            <team></team>
+            <opponent></opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>1. FSV Main 05</opponent>
+        <result>
+            <team></team>
+            <opponent></opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>Bayer 04 Leverkusen</opponent>
+        <result>
+            <team></team>
+            <opponent></opponent>
+        </result>
+    </match>
+</season>
