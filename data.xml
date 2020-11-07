@@ -1,0 +1,363 @@
+<?xml version="1.0" ?>
+<season team="Borussia Dortmund" name="Saison 2018/19">
+    <match>
+        <competition>DFB-Pokal</competition>
+        <opponent>SpVgg Greuther Fürth</opponent>
+        <result>
+            <team>2</team>
+            <opponent>1</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>RB Leipzig</opponent>
+        <result>
+            <team>4</team>
+            <opponent>1</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>Hannover 96</opponent>
+        <result>
+            <team>0</team>
+            <opponent>0</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>Eintracht Frankfurt</opponent>
+        <result>
+            <team>3</team>
+            <opponent>1</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Champions League</competition>
+        <opponent>Club Brügge</opponent>
+        <result>
+            <team>1</team>
+            <opponent>0</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>TSG Hoffenheim</opponent>
+        <result>
+            <team>1</team>
+            <opponent>1</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>1. FC Nürnberg</opponent>
+        <result>
+            <team>7</team>
+            <opponent>0</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>Bayer 04 Leverkusen</opponent>
+        <result>
+            <team>4</team>
+            <opponent>2</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Champions League</competition>
+        <opponent>AS Monaco</opponent>
+        <result>
+            <team>3</team>
+            <opponent>0</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>FC Augsburg</opponent>
+        <result>
+            <team>4</team>
+            <opponent>3</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>VfB Stuttgart</opponent>
+        <result>
+            <team>4</team>
+            <opponent>0</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Champions League</competition>
+        <opponent>Athletico Madrid</opponent>
+        <result>
+            <team>4</team>
+            <opponent>0</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>Hertha BSC</opponent>
+        <result>
+            <team>2</team>
+            <opponent>2</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>DFB-Pokal</competition>
+        <opponent>1. FC Union Berlin</opponent>
+        <result>
+            <team>3</team>
+            <opponent>2</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>VfL Wolfsburg</opponent>
+        <result>
+            <team>2</team>
+            <opponent>0</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Champions League</competition>
+        <opponent>Athletico Madrid</opponent>
+        <result>
+            <team>0</team>
+            <opponent>2</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>Bayern München</opponent>
+        <result>
+            <team>3</team>
+            <opponent>2</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>1. FSV Main 05</opponent>
+        <result>
+            <team>2</team>
+            <opponent>1</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Champions League</competition>
+        <opponent>Club Brügge</opponent>
+        <result>
+            <team>0</team>
+            <opponent>0</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>SC Freiburg</opponent>
+        <result>
+            <team>2</team>
+            <opponent>0</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>FC Schalke 04</opponent>
+        <result>
+            <team>2</team>
+            <opponent>1</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Champions League</competition>
+        <opponent>AS Monaco</opponent>
+        <result>
+            <team>2</team>
+            <opponent>0</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>Werder Bremen</opponent>
+        <result>
+            <team>2</team>
+            <opponent>1</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>Fortuna Düsseldorf</opponent>
+        <result>
+            <team>1</team>
+            <opponent>2</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>Borussia Mönchengladbach</opponent>
+        <result>
+            <team>2</team>
+            <opponent>1</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>RB Leipzig</opponent>
+        <result>
+            <team>1</team>
+            <opponent>0</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>Hannover 96</opponent>
+        <result>
+            <team>5</team>
+            <opponent>1</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>Eintracht Frankfurt</opponent>
+        <result>
+            <team>1</team>
+            <opponent>1</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>DFB-Pokal</competition>
+        <opponent>Werder Bremen</opponent>
+        <result>
+            <team penalty="2">3</team>
+            <opponent penalty="4">3</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>TSG Hoffenheim</opponent>
+        <result>
+            <team>3</team>
+            <opponent>3</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Champions League</competition>
+        <opponent>Tottenham Hotspur</opponent>
+        <result>
+            <team>0</team>
+            <opponent>3</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>1. FC Nürnberg</opponent>
+        <result>
+            <team>0</team>
+            <opponent>0</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>Bayer 04 Leverkusen</opponent>
+        <result>
+            <team>3</team>
+            <opponent>2</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>FC Augsburg</opponent>
+        <result>
+            <team>1</team>
+            <opponent>2</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Champions League</competition>
+        <opponent>Tottenham Hotspur</opponent>
+        <result>
+            <team>0</team>
+            <opponent>1</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>VfB Stuttgart</opponent>
+        <result>
+            <team>3</team>
+            <opponent>1</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>Hertha BSC</opponent>
+        <result>
+            <team>3</team>
+            <opponent>2</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>VfL Wolfsburg</opponent>
+        <result>
+            <team>2</team>
+            <opponent>0</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>Bayern München</opponent>
+        <result>
+            <team>0</team>
+            <opponent>5</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>1. FSV Main 05</opponent>
+        <result>
+            <team>2</team>
+            <opponent>1</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>SC Freiburg</opponent>
+        <result>
+            <team>4</team>
+            <opponent>0</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>FC Schalke 04</opponent>
+        <result>
+            <team>2</team>
+            <opponent>4</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>Werder Bremen</opponent>
+        <result>
+            <team>2</team>
+            <opponent>2</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>Fortuna Düsseldorf</opponent>
+        <result>
+            <team>3</team>
+            <opponent>2</opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>Borussia Mönchengladbach</opponent>
+        <result>
+            <team>2</team>
+            <opponent>0</opponent>
+        </result>
+    </match>
+</season>
