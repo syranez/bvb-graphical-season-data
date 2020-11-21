@@ -92,8 +92,8 @@
         <competition>Bundesliga</competition>
         <opponent>Bayern München</opponent>
         <result>
-            <team></team>
-            <opponent></opponent>
+            <team>2</team>
+            <opponent>3</opponent>
         </result>
     </match>
     <match>
