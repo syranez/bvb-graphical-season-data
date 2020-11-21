@@ -100,8 +100,8 @@
         <competition>Bundesliga</competition>
         <opponent>Hertha BSC</opponent>
         <result>
-            <team></team>
-            <opponent></opponent>
+            <team>5</team>
+            <opponent>2</opponent>
         </result>
     </match>
     <match>
