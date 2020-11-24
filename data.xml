@@ -105,6 +105,14 @@
         </result>
     </match>
     <match>
+        <competition>Champions League</competition>
+        <opponent>Club Brügge</opponent>
+        <result>
+            <team>3</team>
+            <opponent>0</opponent>
+        </result>
+    </match>
+    <match>
         <competition>Bundesliga</competition>
         <opponent>1. FC Köln</opponent>
         <result>
