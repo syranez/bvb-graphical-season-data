@@ -132,8 +132,8 @@
         <competition>Bundesliga</competition>
         <opponent>Eintracht Frankfurt</opponent>
         <result>
-            <team></team>
-            <opponent></opponent>
+            <team>1</team>
+            <opponent>1</opponent>
         </result>
     </match>
     <match>
