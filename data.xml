@@ -137,6 +137,14 @@
         </result>
     </match>
     <match>
+        <competition>Champions League</competition>
+        <opponent>Zenit St. Petersburg</opponent>
+        <result>
+            <team>2</team>
+            <opponent>1</opponent>
+        </result>
+    </match>
+    <match>
         <competition>Bundesliga</competition>
         <opponent>VfB Stuttgart</opponent>
         <result>
