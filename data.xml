@@ -148,8 +148,8 @@
         <competition>Bundesliga</competition>
         <opponent>VfB Stuttgart</opponent>
         <result>
-            <team></team>
-            <opponent></opponent>
+            <team>1</team>
+            <opponent>5</opponent>
         </result>
     </match>
     <match>
