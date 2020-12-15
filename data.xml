@@ -156,8 +156,8 @@
         <competition>Bundesliga</competition>
         <opponent>Werder Bremen</opponent>
         <result>
-            <team></team>
-            <opponent></opponent>
+            <team>2</team>
+            <opponent>1</opponent>
         </result>
     </match>
     <match>
