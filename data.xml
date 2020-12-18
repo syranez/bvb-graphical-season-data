@@ -164,8 +164,8 @@
         <competition>Bundesliga</competition>
         <opponent>1. FC Union Berlin</opponent>
         <result>
-            <team></team>
-            <opponent></opponent>
+            <team>1</team>
+            <opponent>2</opponent>
         </result>
     </match>
     <match>
