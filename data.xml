@@ -169,6 +169,14 @@
         </result>
     </match>
     <match>
+        <competition>DFB-Pokal</competition>
+        <opponent>Eintracht Braunschweig</opponent>
+        <result>
+            <team>2</team>
+            <opponent>0</opponent>
+        </result>
+    </match>
+    <match>
         <competition>Bundesliga</competition>
         <opponent>Vfl Wolfsburg</opponent>
         <result>
