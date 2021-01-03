@@ -180,8 +180,8 @@
         <competition>Bundesliga</competition>
         <opponent>Vfl Wolfsburg</opponent>
         <result>
-            <team></team>
-            <opponent></opponent>
+            <team>1</team>
+            <opponent>0</opponent>
         </result>
     </match>
     <match>
