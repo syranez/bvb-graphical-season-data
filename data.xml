@@ -188,8 +188,8 @@
         <competition>Bundesliga</competition>
         <opponent>RB Leipzig</opponent>
         <result>
-            <team></team>
-            <opponent></opponent>
+            <team>3</team>
+            <opponent>1</opponent>
         </result>
     </match>
     <match>
