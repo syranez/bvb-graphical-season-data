@@ -196,8 +196,8 @@
         <competition>Bundesliga</competition>
         <opponent>1. FSV Main 05</opponent>
         <result>
-            <team></team>
-            <opponent></opponent>
+            <team>1</team>
+            <opponent>1</opponent>
         </result>
     </match>
     <match>
