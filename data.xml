@@ -216,4 +216,52 @@
             <opponent>4</opponent>
         </result>
     </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>FC Augsburg</opponent>
+        <result>
+            <team></team>
+            <opponent></opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Supercup</competition>
+        <opponent>Bayern München</opponent>
+        <result>
+            <team></team>
+            <opponent></opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>SC Freiburg</opponent>
+        <result>
+            <team></team>
+            <opponent></opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>TSG Hoffenheim</opponent>
+        <result>
+            <team></team>
+            <opponent></opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>FC Schalke 04</opponent>
+        <result>
+            <team></team>
+            <opponent></opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>Arminia Bielefeld</opponent>
+        <result>
+            <team></team>
+            <opponent></opponent>
+        </result>
+    </match>
 </season>
