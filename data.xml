@@ -220,8 +220,8 @@
         <competition>Bundesliga</competition>
         <opponent>FC Augsburg</opponent>
         <result>
-            <team></team>
-            <opponent></opponent>
+            <team>3</team>
+            <opponent>1</opponent>
         </result>
     </match>
     <match>
