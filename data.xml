@@ -225,6 +225,14 @@
         </result>
     </match>
     <match>
+        <competition>DFB-Pokal</competition>
+        <opponent>SC Paderborn 07</opponent>
+        <result>
+            <team>3</team>
+            <opponent>2</opponent>
+        </result>
+    </match>
+    <match>
         <competition>Supercup</competition>
         <opponent>Bayern München</opponent>
         <result>
