@@ -233,19 +233,11 @@
         </result>
     </match>
     <match>
-        <competition>Supercup</competition>
-        <opponent>Bayern München</opponent>
-        <result>
-            <team></team>
-            <opponent></opponent>
-        </result>
-    </match>
-    <match>
         <competition>Bundesliga</competition>
         <opponent>SC Freiburg</opponent>
         <result>
-            <team></team>
-            <opponent></opponent>
+            <team>1</team>
+            <opponent>2</opponent>
         </result>
     </match>
     <match>
