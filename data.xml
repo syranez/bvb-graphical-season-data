@@ -244,8 +244,8 @@
         <competition>Bundesliga</competition>
         <opponent>TSG Hoffenheim</opponent>
         <result>
-            <team></team>
-            <opponent></opponent>
+            <team>2</team>
+            <opponent>2</opponent>
         </result>
     </match>
     <match>
