@@ -260,8 +260,8 @@
         <competition>Bundesliga</competition>
         <opponent>FC Schalke 04</opponent>
         <result>
-            <team></team>
-            <opponent></opponent>
+            <team>4</team>
+            <opponent>0</opponent>
         </result>
     </match>
     <match>
