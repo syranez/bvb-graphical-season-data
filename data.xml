@@ -280,4 +280,12 @@
             <opponent>0</opponent>
         </result>
     </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>Bayern München</opponent>
+        <result>
+            <team>2</team>
+            <opponent>4</opponent>
+        </result>
+    </match>
 </season>
