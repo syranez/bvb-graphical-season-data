@@ -288,4 +288,12 @@
             <opponent>4</opponent>
         </result>
     </match>
+    <match>
+        <competition>Champions League</competition>
+        <opponent>FC Sevilla</opponent>
+        <result>
+            <team>2</team>
+            <opponent>2</opponent>
+        </result>
+    </match>
 </season>
