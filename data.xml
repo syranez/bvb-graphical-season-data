@@ -312,4 +312,12 @@
             <opponent>2</opponent>
         </result>
     </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>Eintracht Frankfurt</opponent>
+        <result>
+            <team>1</team>
+            <opponent>2</opponent>
+        </result>
+    </match>
 </season>
