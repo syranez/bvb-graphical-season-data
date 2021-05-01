@@ -368,4 +368,12 @@
             <opponent>0</opponent>
         </result>
     </match>
+    <match>
+        <competition>DFB-Pokal</competition>
+        <opponent>Holstein Kiel</opponent>
+        <result>
+            <team>5</team>
+            <opponent>0</opponent>
+        </result>
+    </match>
 </season>
