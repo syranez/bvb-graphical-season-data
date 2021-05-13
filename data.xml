@@ -384,4 +384,12 @@
             <opponent>2</opponent>
         </result>
     </match>
+    <match>
+        <competition>DFB-Pokal</competition>
+        <opponent>RB Leipzig</opponent>
+        <result>
+            <team>4</team>
+            <opponent>1</opponent>
+        </result>
+    </match>
 </season>
