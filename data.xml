@@ -400,4 +400,12 @@
             <opponent>1</opponent>
         </result>
     </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>Bayer 04 Leverkusen</opponent>
+        <result>
+            <team>3</team>
+            <opponent>1</opponent>
+        </result>
+    </match>
 </season>
