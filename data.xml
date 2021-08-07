@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<season team="Borussia Dortmund" name="Saison 2021/22">
+    <match>
+        <competition>DFB-Pokal</competition>
+        <opponent>SV Wehen Wiesbaden</opponent>
+        <result>
+            <team></team>
+            <opponent></opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>Eintracht Frankfurt</opponent>
+        <result>
+            <team></team>
+            <opponent></opponent>
+        </result>
+    </match>
+    <match>
+        <competition>Supercup</competition>
+        <opponent>Bayern München</opponent>
+        <result>
+            <team></team>
+            <opponent></opponent>
+        </result>
+    </match>
+</season>
