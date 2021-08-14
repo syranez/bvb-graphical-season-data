@@ -12,8 +12,8 @@
         <competition>Bundesliga</competition>
         <opponent>Eintracht Frankfurt</opponent>
         <result>
-            <team></team>
-            <opponent></opponent>
+            <team>5</team>
+            <opponent>2</opponent>
         </result>
     </match>
     <match>
