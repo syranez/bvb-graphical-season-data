@@ -20,8 +20,8 @@
         <competition>Supercup</competition>
         <opponent>Bayern München</opponent>
         <result>
-            <team></team>
-            <opponent></opponent>
+            <team>1</team>
+            <opponent>3</opponent>
         </result>
     </match>
 </season>
