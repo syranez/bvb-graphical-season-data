@@ -64,4 +64,12 @@
             <opponent>2</opponent>
         </result>
     </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>Bor. Mönchengladbach</opponent>
+        <result>
+            <team>0</team>
+            <opponent>1</opponent>
+        </result>
+    </match>
 </season>
