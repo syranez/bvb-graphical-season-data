@@ -72,4 +72,12 @@
             <opponent>1</opponent>
         </result>
     </match>
+    <match>
+        <competition>Champions League</competition>
+        <opponent>Sporting Lissabon</opponent>
+        <result>
+            <team>1</team>
+            <opponent>0</opponent>
+        </result>
+    </match>
 </season>
