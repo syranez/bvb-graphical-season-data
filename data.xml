@@ -96,4 +96,12 @@
             <opponent>1</opponent>
         </result>
     </match>
+    <match>
+        <competition>Champions League</competition>
+        <opponent>Ajax Amsterdam</opponent>
+        <result>
+            <team>0</team>
+            <opponent>4</opponent>
+        </result>
+    </match>
 </season>
