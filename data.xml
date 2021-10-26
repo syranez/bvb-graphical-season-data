@@ -112,4 +112,12 @@
             <opponent>1</opponent>
         </result>
     </match>
+    <match>
+        <competition>DFB-Pokal</competition>
+        <opponent>FC Ingolstadt 04</opponent>
+        <result>
+            <team>2</team>
+            <opponent>0</opponent>
+        </result>
+    </match>
 </season>
