@@ -128,4 +128,12 @@
             <opponent>0</opponent>
         </result>
     </match>
+    <match>
+        <competition>Champions League</competition>
+        <opponent>Ajax Amsterdam</opponent>
+        <result>
+            <team>1</team>
+            <opponent>3</opponent>
+        </result>
+    </match>
 </season>
