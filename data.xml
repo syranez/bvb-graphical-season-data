@@ -136,4 +136,12 @@
             <opponent>3</opponent>
         </result>
     </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>RB Leipzig</opponent>
+        <result>
+            <team>1</team>
+            <opponent>2</opponent>
+        </result>
+    </match>
 </season>
