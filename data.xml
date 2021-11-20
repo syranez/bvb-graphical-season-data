@@ -144,4 +144,12 @@
             <opponent>2</opponent>
         </result>
     </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>VfB Stuttgart</opponent>
+        <result>
+            <team>2</team>
+            <opponent>1</opponent>
+        </result>
+    </match>
 </season>
