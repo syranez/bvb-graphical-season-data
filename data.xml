@@ -160,4 +160,12 @@
             <opponent>3</opponent>
         </result>
     </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>VfL Wolfsburg</opponent>
+        <result>
+            <team>3</team>
+            <opponent>1</opponent>
+        </result>
+    </match>
 </season>
