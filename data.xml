@@ -176,4 +176,12 @@
             <opponent>3</opponent>
         </result>
     </match>
+    <match>
+        <competition>Champions League</competition>
+        <opponent>Besiktas JK</opponent>
+        <result>
+            <team>5</team>
+            <opponent>0</opponent>
+        </result>
+    </match>
 </season>
