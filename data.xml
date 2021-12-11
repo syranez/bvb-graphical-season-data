@@ -184,4 +184,12 @@
             <opponent>0</opponent>
         </result>
     </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>VfL Bochum</opponent>
+        <result>
+            <team>1</team>
+            <opponent>1</opponent>
+        </result>
+    </match>
 </season>
