@@ -216,4 +216,12 @@
             <opponent>2</opponent>
         </result>
     </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>SC Freiburg</opponent>
+        <result>
+            <team>5</team>
+            <opponent>1</opponent>
+        </result>
+    </match>
 </season>
