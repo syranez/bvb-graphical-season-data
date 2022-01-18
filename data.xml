@@ -224,4 +224,12 @@
             <opponent>1</opponent>
         </result>
     </match>
+    <match>
+        <competition>DFB-Pokal</competition>
+        <opponent>FC St. Pauli</opponent>
+        <result>
+            <team>1</team>
+            <opponent>2</opponent>
+        </result>
+    </match>
 </season>
