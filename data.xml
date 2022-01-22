@@ -232,4 +232,12 @@
             <opponent>2</opponent>
         </result>
     </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>TSG Hoffenheim</opponent>
+        <result>
+            <team>3</team>
+            <opponent>2</opponent>
+        </result>
+    </match>
 </season>
