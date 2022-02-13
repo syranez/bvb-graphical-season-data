@@ -248,4 +248,12 @@
             <opponent>5</opponent>
         </result>
     </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>1. FC Union Berlin</opponent>
+        <result>
+            <team>3</team>
+            <opponent>0</opponent>
+        </result>
+    </match>
 </season>
