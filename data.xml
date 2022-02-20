@@ -264,4 +264,12 @@
             <opponent>4</opponent>
         </result>
     </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>Bor. Mönchengladbach</opponent>
+        <result>
+            <team>6</team>
+            <opponent>0</opponent>
+        </result>
+    </match>
 </season>
