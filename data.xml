@@ -280,4 +280,12 @@
             <opponent>2</opponent>
         </result>
     </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>FC Augsburg</opponent>
+        <result>
+            <team>1</team>
+            <opponent>1</opponent>
+        </result>
+    </match>
 </season>
