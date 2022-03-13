@@ -288,4 +288,12 @@
             <opponent>1</opponent>
         </result>
     </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>Arminia Bielefeld</opponent>
+        <result>
+            <team>1</team>
+            <opponent>0</opponent>
+        </result>
+    </match>
 </season>
