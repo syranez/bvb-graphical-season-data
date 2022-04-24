@@ -336,4 +336,12 @@
             <opponent>1</opponent>
         </result>
     </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>FC Bayern München</opponent>
+        <result>
+            <team>1</team>
+            <opponent>3</opponent>
+        </result>
+    </match>
 </season>
