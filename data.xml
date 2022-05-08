@@ -344,4 +344,12 @@
             <opponent>3</opponent>
         </result>
     </match>
+    <match>
+        <competition>Bundesliga</competition>
+        <opponent>SpVgg Greuther Fürth</opponent>
+        <result>
+            <team>3</team>
+            <opponent>1</opponent>
+        </result>
+    </match>
 </season>
